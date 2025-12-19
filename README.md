@@ -5,7 +5,7 @@ A simple Python command-line application developed as part of **Day 1** of the
 
 This project introduces fundamental Python concepts through a small, interactive program that generates a band name based on user input.
 
-## 🧠 Project Overview
+# Project Overview
 
 The Band Name Generator combines two user-provided inputs to suggest a potential band name:
 - The name of the city where the user grew up
@@ -13,13 +13,13 @@ The Band Name Generator combines two user-provided inputs to suggest a potential
 
 This project is designed to practice core programming concepts in a clear and practical way.
 
-## 🔧 Key Concepts Practiced
+# Key Concepts Practiced
 - Variables
 - User input (`input()`)
 - String concatenation
 - Output formatting (`print()`)
 
-## ▶️ Example Usage
+# Example Usage
 
 What’s the name of the city you grew up in?
 Barcelona
@@ -28,9 +28,9 @@ Luna
 
 Your band name could be Barcelona Luna
 
-## 🛠️ Technologies
+# Technologies
 - Python 3
 
-## 📚 Learning Context
+# Learning Context
 This project is part of my structured learning journey in Python and software development, following **Angela Yu’s 100 Days of Code Bootcamp**.  
 Each project in this repository represents a step in building strong programming fundamentals.
